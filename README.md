@@ -1,1 +1,2 @@
-# bigdenergy.lol
+# EdgeDNS.Parking
+EdgeDNS Parking Page
